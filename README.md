@@ -9,9 +9,9 @@ BOM:
 4x Through-hole 1N4148 Diodes
 
 Here is a picture of the final HackPad!
-![alt text](<Screenshot 2025-11-26 222803.png>)
+![](<REPO0.png>)
 
 Here are pictures the schematic, PCB, and case model
-![alt text](<Screenshot 2025-11-26 141421.png>)
-![alt text](<Screenshot 2025-11-26 144925.png>)
-![alt text](<Screenshot 2025-11-26 145549.png>)
+![](<REPO1.png>)
+![](<REPO2.png>)
+![](<REPO3.png>)
