@@ -17,4 +17,4 @@ Here is a picture of the final HackPad!
 Here are pictures the schematic, PCB, and case model
 ![Schematic](PICTURES/NEWREPO3.jpg)
 ![PCB](PICTURES/NEWREPO2.jpg)
-![Case Model](PICTURES/REPO1.jpg)
+![Case Model](PICTURES/NEWREPO1.jpg)
